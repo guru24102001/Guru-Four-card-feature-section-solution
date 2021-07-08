@@ -29,8 +29,8 @@ Users should be able to:
 
 - Mobile Preview\
 
-![Mobile Preview 1](./images/Mobile_ScreenShot_1.PNG)
-![Mobile Preview 2](./images/Mobile_ScreenShot_2.PNG)
+![Mobile Preview 1](./images/Mobile_ScreenShot_one.PNG)
+![Mobile Preview 2](./images/Mobile_ScreenShot_two.PNG)
 
 
 
