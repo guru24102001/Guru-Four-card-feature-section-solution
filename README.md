@@ -27,7 +27,8 @@ Users should be able to:
 - Desktop Preview
 ![Desktop Preview](./images/Desktop_ScreenShot.PNG)
 
-- Mobile Preview
+- Mobile Preview\
+
 ![Mobile Preview 1](./images/Mobile_ScreenShot_1.PNG)
 ![Mobile Preview 2](./images/Mobile_ScreenShot_2.PNG)
 
